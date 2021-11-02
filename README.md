@@ -1,2 +1,2 @@
-# statman
+# StatMan
 A simple statistics project doing statistical operations for university course
