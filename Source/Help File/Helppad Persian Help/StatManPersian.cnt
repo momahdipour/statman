@@ -1,0 +1,12 @@
+:Base StatManPersian.hlp
+1 About StatMan version 1.1=hpad10
+1 Introduction=hpad20
+1 Section Description
+2 Data Settings Section=hpad30
+2 Data Sheet Section=hpad40
+2 Frequency Table Section=hpad50
+2 Chart Section=hpad60
+2 Data Analyzing Section=hpad70
+1 Tools
+2 Table Creator=hpad80
+2 Random Number Producer=hpad90

@@ -1,0 +1,20 @@
+const LP_Exit='ÎÑæÌ';
+const LP_DataSettings='ÊäÙíãÇÊ ÏÇÏå åÇ';
+const LP_DataSheet='ÈÑå ÏÇÏå åÇ';
+const LP_FrequencyTable='ÌÏæá İÑÇæÇäí';
+const LP_Charts='äãæÏÇÑåÇ';
+const LP_DataAnalyzing='ÊÍáíá ÏÇÏå åÇ';
+const LP_File='İÇíá';
+const LP_Edit='æíÑÇíÔ';
+const LP_View='ÙÇåÑ';
+const LP_Chart='äãæÏÇÑ';
+const LP_Help='ÑÇåäãÇ';
+{const LP_
+const LP_
+const LP_
+const LP_
+const LP_
+const LP_
+const LP_
+const LP_}
+

@@ -1,0 +1,17 @@
+:Base StatMan.hlp
+1 About StatMan Version 1.1=hpad10
+1 Introduction=hpad20
+1 What's new=hpad110
+1 Section Description And How To Use
+2 Data Settings Section=hpad30
+2 Data Sheet Section=hpad40
+2 Frequency Table Section=hpad50
+2 Chart Section=hpad60
+2 Data Analyzing Section=hpad70
+1 Tools
+2 Table Creator=hpad120
+2 Random Number Producer=hpad130
+1 Other Issues
+2 Data Types=hpad80
+2 How to create a frequency table=hpad90
+2 How to create a chart=hpad90
